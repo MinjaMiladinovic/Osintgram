@@ -104,13 +104,7 @@ public final class BuilderProcess extends BaritoneProcessHelper implements IBuil
         this.observedCompleted = new LongOpenHashSet();
     }
 
-    public void resume() {
-        paused = false;
-    }
 
-    public void pause() {
-        paused = true;
-    }
 
     @Override
     public boolean isPaused() {
