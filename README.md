@@ -2,6 +2,8 @@
 [![](https://img.shields.io/badge/license-GPLv3-blue)](https://img.shields.io/badge/license-GPLv3-blue)
 [![](https://img.shields.io/badge/language-Python3-red)](https://img.shields.io/badge/language-Python3-red)
 [![](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/osintgram)
+[![CodeScene System Mastery](https://staging.codescene.io/projects/12523/status-badges/system-mastery)](https://staging.codescene.io/projects/12523)
+[![CodeScene Code Health](https://staging.codescene.io/projects/12523/status-badges/code-health)](https://staging.codescene.io/projects/12523)
 
 # Osintgram
 Osintgram is a **OSINT** tool on Instagram.
